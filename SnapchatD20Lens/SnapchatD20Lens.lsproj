@@ -1,0 +1,690 @@
+{
+    "lens_id": "9b9611c5-d19a-48c1-b738-941373faa83b",
+    "version": "0",
+    "lastChanged": "1520141306288",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "PBR Textures"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "SnapchatD20 v03",
+                        "Animations"
+                    ],
+                    [
+                        "SnapchatD20 v03",
+                        "Meshes"
+                    ],
+                    [
+                        "Textures"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1509398098262568:84736"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "b77d364ff9e182cbf7fc506d3de1d4f9",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Roll D20"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mesh.fbx",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/GroundGrid.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "\/var\/folders\/x4\/81yhmvdj6xb84knvrp34ych40000gq\/T\/Studio3D-BDSKDr\/Asset1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Downloads\/ground_grid_mat.mat",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1499276508720146:1345",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "\/Users\/peter.javidpour\/Snapchat\/studio3d-support\/helper_scripts\/PlayAnimation.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1502830760689594:60799",
+                    "name": "\/Resources\/Resource40.png",
+                    "sourceFilePath": "\/var\/folders\/nd\/9vg2b63x7sz3ny4j8bcrnpvr0000gn\/T\/Studio3D-1JFZ7i\/Asset0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1508369089503424:114526",
+                    "name": "\/Resources\/Resource53.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1508958926896269:113711",
+                    "name": "\/Resources\/Resource238.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Studio3D\/envmaps\/marvista_1209448440_diff.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1508958926915378:113720",
+                    "name": "\/Resources\/Resource239.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Library\/Caches\/Snap\/Studio3D\/envmaps\/marvista_1209448440_spec.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "579",
+                    "uid": "1508965141679325:166598",
+                    "name": "\/Resources\/Resource579.mesh",
+                    "sourceFilePath": "\/Users\/doug.holder\/Documents\/TouchCollisionCube.fbx",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "798",
+                    "uid": "1511403106937749:234685",
+                    "name": "\/Resources\/Resource798",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "799",
+                    "uid": "1511403106939565:234697",
+                    "name": "\/Resources\/Resource799.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "800",
+                    "uid": "1511403174089713:242951",
+                    "name": "\/Resources\/Resource800",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "823",
+                    "uid": "1520137093644394:30772",
+                    "name": "\/Resources\/Resource823.mesh",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat D20\/SnapchatD20 v03.01.fbx",
+                    "additionalProperties": {
+                        "name": "D20"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "824",
+                    "uid": "1520137093620839:30760",
+                    "name": "\/Resources\/Resource824",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat D20\/SnapchatD20 v03.01.fbx",
+                    "additionalProperties": {
+                        "name": "Bounce Anim Holder",
+                        "animationLayer": "Scene"
+                    },
+                    "flags": "4",
+                    "type": "8",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "825",
+                    "uid": "1520137190999179:33086",
+                    "name": "\/Resources\/Resource825",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "826",
+                    "uid": "1520137191015916:33098",
+                    "name": "\/Resources\/Resource826.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "827",
+                    "uid": "1520137191017446:33110",
+                    "name": "\/Resources\/Resource827.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "828",
+                    "uid": "1520137191018321:33122",
+                    "name": "\/Resources\/Resource828.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "829",
+                    "uid": "1520137191019143:33134",
+                    "name": "\/Resources\/Resource829.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "830",
+                    "uid": "1520137191020083:33146",
+                    "name": "\/Resources\/Resource830.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "831",
+                    "uid": "1520137276687909:33255",
+                    "name": "\/Resources\/Resource831.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat D20\/NumberedTexNormal.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "832",
+                    "uid": "1520137283145106:33272",
+                    "name": "\/Resources\/Resource832.png",
+                    "sourceFilePath": "\/Users\/patrickmccaffrey\/Documents\/Snapchat D20\/NumberedTexRedWhite.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507676290581751:18499",
+                "2": "1511403106934009:234679",
+                "3": "1520137093567061:30725",
+                "4": "1520137093620778:30758",
+                "5": "1520137093622101:30768",
+                "6": "1520138080316813:35552"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "14",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TapAnim",
+                                "resourceId": "53",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "base",
+                                "resourceId": "40",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "marvista_diff",
+                                "resourceId": "238",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "marvista_spec",
+                                "resourceId": "239",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "579",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "plane",
+                                "resourceId": "799",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "798",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "800",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "SnapchatD20 v03",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "D20",
+                                        "resourceId": "823",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Bounce Anim Holder",
+                                        "resourceId": "824",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "D20",
+                                        "resourceId": "825",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "NumberedTexNormal",
+                                        "resourceId": "831",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "NumberedTexRedWhite",
+                                        "resourceId": "832",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "PBR Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "826",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "827",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "resourceId": "828",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "829",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "830",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "14",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "40",
+                    "path": "Textures\/base.png"
+                },
+                {
+                    "id": "53",
+                    "path": "Scripts\/TapAnim.js"
+                },
+                {
+                    "id": "238",
+                    "path": "Textures\/marvista_diff.png"
+                },
+                {
+                    "id": "239",
+                    "path": "Textures\/marvista_spec.png"
+                },
+                {
+                    "id": "579",
+                    "path": "Meshes\/touch_collision.mesh"
+                },
+                {
+                    "id": "799",
+                    "path": "Meshes\/plane.mesh"
+                },
+                {
+                    "id": "823",
+                    "path": "SnapchatD20 v03\/Meshes\/D20.mesh"
+                },
+                {
+                    "id": "826",
+                    "path": "PBR Textures\/Base.png"
+                },
+                {
+                    "id": "827",
+                    "path": "PBR Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "828",
+                    "path": "PBR Textures\/MaterialParams.png"
+                },
+                {
+                    "id": "829",
+                    "path": "PBR Textures\/Normal.png"
+                },
+                {
+                    "id": "830",
+                    "path": "PBR Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "831",
+                    "path": "SnapchatD20 v03\/Textures\/NumberedTexNormal.png"
+                },
+                {
+                    "id": "832",
+                    "path": "SnapchatD20 v03\/Textures\/NumberedTexRedWhite.png"
+                }
+            ]
+        }
+    }
+}
